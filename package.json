@@ -15,5 +15,9 @@
   "devDependencies": {
     "@types/node": "^12.0.8",
     "typescript": "^3.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DayBr3ak/transform-pdftobmp.git"
+   }
 }
