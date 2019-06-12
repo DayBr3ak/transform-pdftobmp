@@ -1,5 +1,5 @@
 {
-  "name": "pdf-to-image",
+  "name": "@daybr3ak/transform-pdftobmp",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
